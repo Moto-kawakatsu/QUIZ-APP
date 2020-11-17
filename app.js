@@ -11,6 +11,10 @@ const quiz = [
     question: 'Are you happy to come here？',
     answers: [ 'Why not ??', 'No, I am', 'I am here', 'You are happy'],
     correct: 'Why not ??'
+  }, {
+    question: 'What are you doing now？',
+    answers: [ 'I was eating dinner', 'I eating an apple', 'I love to eat chocolate', 'I am having a toast for lunch'],
+    correct: 'I am having a toast for lunch'
   }
 ];
 
