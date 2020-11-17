@@ -1,16 +1,16 @@
 const quiz = [
   {
-    question: 'ゲーム史上、最も売れたゲーム機はどれ？',
-    answers: [ 'スーパーファミコン', 'PlayStation 2', 'ニンテンドーDS', 'Xbox 360'],
-    correct: 'ニンテンドーDS'
+    question: 'What do you like to do？',
+    answers: [ 'I play soccer.', 'I really like to play tennis', 'I love it', 'Thanks'],
+    correct: 'I really like to play tennis'
   }, {
-    question: '糸井重里が企画に関わった、任天堂の看板ゲームといえば？',
-    answers: [ 'MOTHER2', 'スーパーマリオブラザーズ3', 'スーパードンキーコング', '星のカービィ'],
-    correct: 'MOTHER2'
+    question: 'What did you eat for breakfast this morning？',
+    answers: [ 'I love to eat', 'I am eating a banana', 'I ate an apple', 'I was eat sushi'],
+    correct: 'I ate an apple'
   }, {
-    question: 'ファイナルファンタジーⅣの主人公の名前は？',
-    answers: [ 'フリオニール', 'クラウド', 'ティーダ', 'セシル'],
-    correct: 'セシル'
+    question: 'Are you happy to come here？',
+    answers: [ 'Why not ??', 'No, I am', 'I am here', 'You are happy'],
+    correct: 'Why not ??'
   }
 ];
 
