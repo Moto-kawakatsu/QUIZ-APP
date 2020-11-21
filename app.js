@@ -1,20 +1,20 @@
 const quiz = [
   {
-    question: 'What do you like to do？',
-    answers: [ 'I play soccer.', 'I really like to play tennis', 'I love it', 'Thanks'],
-    correct: 'I really like to play tennis'
+    question: '台湾の首都は？',
+    answers: [ '台中', 'バンコク', '台北', 'タイ'],
+    correct: '台北'
   }, {
-    question: 'What did you eat for breakfast this morning？',
-    answers: [ 'I love to eat', 'I am eating a banana', 'I ate an apple', 'I was eat sushi'],
-    correct: 'I ate an apple'
+    question: 'アメリカの次期大統領は？',
+    answers: [ 'オバマ', 'テンバイ', 'バイデン', 'クリントン'],
+    correct: 'バイデン'
   }, {
-    question: 'Are you happy to come here？',
-    answers: [ 'Why not ??', 'No, I am', 'I am here', 'You are happy'],
-    correct: 'Why not ??'
+    question: 'フィリピンの首都は？',
+    answers: [ 'マカオ', 'セブ', 'マニラ', 'バニラ'],
+    correct: 'マニラ'
   }, {
-    question: 'What are you doing now？',
-    answers: [ 'I was eating dinner', 'I eating an apple', 'I love to eat chocolate', 'I am having a toast for lunch'],
-    correct: 'I am having a toast for lunch'
+    question: 'FaceBookのCEO誰は？',
+    answers: [ 'ピーター・アーツ', 'バークザッカーマーク', 'ダグラス・マッカーサー', '答え無し'],
+    correct: '答え無し'
   }
 ];
 
