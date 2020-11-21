@@ -1,0 +1,10 @@
+.back {
+    font-size:20px;
+    padding:10px;
+    background-color:rgba(193, 190, 190, 0.477);
+    display:flex;
+    justify-content:center;
+    width:70px;
+    margin:0 47%;
+
+}
