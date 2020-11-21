@@ -12,7 +12,7 @@ const quiz = [
     answers: [ 'マカオ', 'セブ', 'マニラ', 'バニラ'],
     correct: 'マニラ'
   }, {
-    question: 'FaceBookのCEO誰は？',
+    question: 'FaceBookのCEOは誰？',
     answers: [ 'ピーター・アーツ', 'バークザッカーマーク', 'ダグラス・マッカーサー', '答え無し'],
     correct: '答え無し'
   }
